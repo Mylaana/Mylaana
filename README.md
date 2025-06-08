@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🔭 I’m currently working on a big web application : Ares Expedition boardgame WebApp adaptation
-- 🌱 I’m currently learning Angular 17+ and Java Spring Boot
+- 🌱 I’m currently learning Angular 19+ and Java Spring Boot
 
 # 🌐 Socials:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)([https://linkedin.com/in/Alexandre Thore](https://www.linkedin.com/in/alexandre-t-091721109/)) 
